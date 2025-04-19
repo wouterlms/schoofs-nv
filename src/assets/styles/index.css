@@ -1,0 +1,5 @@
+/* Do not change the order of imports or styling might break. */
+@import './themes/default.css';
+@import './application.css';
+@import './core/colors.css';
+@import './core/tokens.css';

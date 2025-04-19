@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+@source '../../../node_modules/@wisemen';
+
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /* Add your custom tailwind variables here */
+}
