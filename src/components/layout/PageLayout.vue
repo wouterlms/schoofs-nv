@@ -3,5 +3,7 @@
 </script>
 
 <template>
-  <div />
+  <div class="p-3xl">
+    <slot />
+  </div>
 </template>

@@ -22,7 +22,7 @@
   --fg-success-secondary: var(--success-500);
 
   --text-primary: var(--gray-900);
-  --text-primary-on-brand: var(--white);
+  --text-primary-on-brand: var(--black);
   --text-secondary: var(--gray-700);
   --text-secondary-hover: var(--gray-800);
   --text-secondary-on-brand: var(--brand-200);

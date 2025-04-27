@@ -2,18 +2,18 @@
 /* To update theme styles, modify the configuration at: /src/themes/default.json */
 
 .default.light {
-  --brand-25: #fcfaff;
-  --brand-50: #f9f5ff;
-  --brand-100: #f4ebff;
-  --brand-200: #e9d7fe;
-  --brand-300: #d6bbfb;
-  --brand-400: #b692f6;
-  --brand-500: #9e77ed;
-  --brand-600: #7f56d9;
-  --brand-700: #6941c6;
-  --brand-800: #53389e;
-  --brand-900: #42307d;
-  --brand-950: #2c1c5f;
+  --brand-25: #fffef5;
+  --brand-50: #fefeeb;
+  --brand-100: #fefdd7;
+  --brand-200: #fdfbb8;
+  --brand-300: #fcf99a;
+  --brand-400: #faf77c;
+  --brand-500: #f8f335;
+  --brand-600: #d3cf2d;
+  --brand-700: #aeaa25;
+  --brand-800: #7c7a1a;
+  --brand-900: #4a4910;
+  --brand-950: #252408;
   --error-25: #fffbfa;
   --error-50: #fef3f2;
   --error-100: #fee4e2;
@@ -67,18 +67,18 @@
 }
 
 .default.dark {
-  --brand-25: #fcfaff;
-  --brand-50: #f9f5ff;
-  --brand-100: #f4ebff;
-  --brand-200: #e9d7fe;
-  --brand-300: #d6bbfb;
-  --brand-400: #b692f6;
-  --brand-500: #9e77ed;
-  --brand-600: #7f56d9;
-  --brand-700: #6941c6;
-  --brand-800: #53389e;
-  --brand-900: #42307d;
-  --brand-950: #2c1c5f;
+  --brand-25: #fffef5;
+  --brand-50: #fefeeb;
+  --brand-100: #fefdd7;
+  --brand-200: #fdfbb8;
+  --brand-300: #fcf99a;
+  --brand-400: #faf77c;
+  --brand-500: #f8f335;
+  --brand-600: #d3cf2d;
+  --brand-700: #aeaa25;
+  --brand-800: #7c7a1a;
+  --brand-900: #4a4910;
+  --brand-950: #252408;
   --error-25: #fffbfa;
   --error-50: #fef3f2;
   --error-100: #fee4e2;
@@ -132,18 +132,18 @@
 }
 
 .default.system {
-  --brand-25: #fcfaff;
-  --brand-50: #f9f5ff;
-  --brand-100: #f4ebff;
-  --brand-200: #e9d7fe;
-  --brand-300: #d6bbfb;
-  --brand-400: #b692f6;
-  --brand-500: #9e77ed;
-  --brand-600: #7f56d9;
-  --brand-700: #6941c6;
-  --brand-800: #53389e;
-  --brand-900: #42307d;
-  --brand-950: #2c1c5f;
+  --brand-25: #fffef5;
+  --brand-50: #fefeeb;
+  --brand-100: #fefdd7;
+  --brand-200: #fdfbb8;
+  --brand-300: #fcf99a;
+  --brand-400: #faf77c;
+  --brand-500: #f8f335;
+  --brand-600: #d3cf2d;
+  --brand-700: #aeaa25;
+  --brand-800: #7c7a1a;
+  --brand-900: #4a4910;
+  --brand-950: #252408;
   --error-25: #fffbfa;
   --error-50: #fef3f2;
   --error-100: #fee4e2;
@@ -196,18 +196,18 @@
   --white: #ffffff;
 
   @media (prefers-color-scheme: dark) {
-    --brand-25: #fcfaff;
-    --brand-50: #f9f5ff;
-    --brand-100: #f4ebff;
-    --brand-200: #e9d7fe;
-    --brand-300: #d6bbfb;
-    --brand-400: #b692f6;
-    --brand-500: #9e77ed;
-    --brand-600: #7f56d9;
-    --brand-700: #6941c6;
-    --brand-800: #53389e;
-    --brand-900: #42307d;
-    --brand-950: #2c1c5f;
+    --brand-25: #fffef5;
+    --brand-50: #fefeeb;
+    --brand-100: #fefdd7;
+    --brand-200: #fdfbb8;
+    --brand-300: #fcf99a;
+    --brand-400: #faf77c;
+    --brand-500: #f8f335;
+    --brand-600: #d3cf2d;
+    --brand-700: #aeaa25;
+    --brand-800: #7c7a1a;
+    --brand-900: #4a4910;
+    --brand-950: #252408;
     --error-25: #fffbfa;
     --error-50: #fef3f2;
     --error-100: #fee4e2;

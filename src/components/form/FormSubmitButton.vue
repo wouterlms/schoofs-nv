@@ -47,7 +47,7 @@ const isButtonDisabled = computed<boolean>(() => {
     :is-loading="props.form.isSubmitting.value"
     type="submit"
     class="w-full"
-    size="sm"
+    size="lg"
   >
     {{ props.label }}
   </VcButton>

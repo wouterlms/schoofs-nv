@@ -1,5 +1,6 @@
 import '@/assets/styles/index.css'
 import '@fontsource-variable/inter'
+import '@/component-variants'
 
 import { extendIcons as extendIconsNext } from '@wisemen/vue-core-components'
 import { createApp as createVueApp } from 'vue'

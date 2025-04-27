@@ -27,7 +27,7 @@ logBuildInformation()
   <VcConfigProvider
     :locale="i18n.locale.value"
     :google-maps-api-key="GOOGLE_MAPS_API_KEY"
-    teleport-target-selector="#teleport-target"
+    teleport-target-selector="body"
   >
     <VcThemeProvider
       theme="default"

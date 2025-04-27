@@ -1,4 +1,5 @@
 @import 'tailwindcss';
+@import '@wisemen/vue-core-components/style.css' layer(base);
 @source '../../../node_modules/@wisemen';
 
 @variant dark (&:where(.dark, .dark *));
