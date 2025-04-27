@@ -1,0 +1,1 @@
+import{_ as o,c as n,a as r,o as t}from"./index-FC2IEpy2.js";const s={},c={viewBox:"0 0 24 24",fill:"none"};function a(l,e){return t(),n("svg",c,e[0]||(e[0]=[r("path",{d:"M18 15L12 9L6 15",class:"stroke-current","stroke-width":"2","stroke-linecap":"round","stroke-linejoin":"round"},null,-1)]))}const d=o(s,[["render",a]]);export{d as default};
