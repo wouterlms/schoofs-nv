@@ -1,1 +1,0 @@
-import{_ as o,c as t,a as n,o as r}from"./index-BulvIiJV.js";const s={},c={viewBox:"0 0 10 9",fill:"none",xmlns:"http://www.w3.org/2000/svg"};function a(l,e){return r(),t("svg",c,e[0]||(e[0]=[n("path",{d:"M1 0.5V8.5H9",class:"stroke-current","stroke-linecap":"round"},null,-1)]))}const f=o(s,[["render",a]]);export{f as default};
