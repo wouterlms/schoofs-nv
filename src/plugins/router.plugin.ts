@@ -8,7 +8,7 @@ import { useRouterMiddleware } from '@/composables/router/routerMiddleware.compo
 import { routes } from '@/routes/routes.ts'
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory('/schoofs-nv/'),
   routes: routes as RouteRecordRaw[],
 })
 

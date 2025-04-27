@@ -18,7 +18,7 @@
     "type-check": "vue-tsc --build",
     "prepare": "husky",
     "precommit": "pnpm lint && pnpm type-check && pnpm test:unit && pnpm build && pnpm test:coverage",
-    "deploy-gh-pages": "gh-pages -d dist"
+    "deploy-gh-pages": "cp dist/index.html dist/404.html && gh-pages -d dist"
   },
   "dependencies": {
     "@fontsource-variable/inter": "5.2.5",
