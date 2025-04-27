@@ -60,6 +60,7 @@ const vitePwaConfig: Partial<VitePWAOptions> = {
 }
 
 export default defineConfig({
+  base: '/schoofs-nv/',
   define: {
     __VUE_PROD_HYDRATION_MISMATCH_DETAILS__: 'true',
     BUILD_COMMIT: JSON.stringify(process.env.BUILD_COMMIT ?? 'undefined'),
